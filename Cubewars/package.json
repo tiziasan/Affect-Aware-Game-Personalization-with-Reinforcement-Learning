@@ -1,0 +1,30 @@
+{
+  "name": "cube-wars-master",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "This is my attempt of creating the Boxhead 2D zombie game.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"npm run start-js\" \"npm run start-server\"",
+    "start-js": "serve",
+    "start-server": "cd js/game/Server && node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "io": "^1.3.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "ws": "^8.19.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
