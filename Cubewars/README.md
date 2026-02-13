@@ -19,7 +19,7 @@ serve
 
 ## :camera: Screenshots
 
-![](https://i.imgur.com/HY54lH2.png)
+![](HY54IH2.png)
 
-![](https://i.imgur.com/MrgtDNt.png)
+![](MrgtDNt.png)
 
