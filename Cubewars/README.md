@@ -19,7 +19,7 @@ serve
 
 ## :camera: Screenshots
 
-![](HY54IH2.png)
+![](HY54lH2.png)
 
 ![](MrgtDNt.png)
 
